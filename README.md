@@ -1,4 +1,4 @@
-### Hi 👋
+### Hey! 👋
 
 I'm Software Engineer with over 4 years experience in creating solutions based on C++ and Python.
 I'm huge enthusiast of learning new things, but lately, my attention is mostly focused on:
