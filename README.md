@@ -8,4 +8,4 @@ I'm huge enthusiast of learning new things, but lately, my attention is mostly f
 * 🎓 machine learning with Python
 * 🌱 learning basics of Rust
 
-Apart from working full-time, I'm trying to finish my MSc 🎓 in field strongly related to usage of machine learning in medicine.
+Apart from working full-time, I'm trying to finish my MSc 🎓 in field strongly related to usage of machine learning in medicine 🩻.
