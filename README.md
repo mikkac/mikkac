@@ -9,3 +9,5 @@ I'm huge enthusiast of learning new things, but lately, my attention is mostly f
 * 🌱 learning basics of Rust
 
 Apart from working full-time, I'm trying to finish my MSc 🎓 in field strongly related to usage of machine learning in medicine 🩻.
+
+I'm also huge fan of learning things in very disciplined way. This is why I love [CodeWars|https://www.codewars.com/users/mikollaj99] so much! Feel free to visit my profile anytime 😺
