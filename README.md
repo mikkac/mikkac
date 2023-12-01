@@ -1,11 +1,9 @@
 Software Engineer since 2018 with experience in creating solutions based on C++ and Python.
-I'm huge enthusiast of learning new things, but lately, my attention is mostly focused on:
-* ⚙️ keeping up with latest innovations in **C++** language
-* 🖥️ frontend development with **Qt & QML**
-* 🎓 machine learning with **Python**
-* 🌱 learning basics of **Rust**
-
-Apart from working full-time, I'm trying to finish my MSc 🎓 in field strongly related to usage of machine learning in medicine 🩻. <br> <br>
+I'm huge enthusiast of learning new things, but lately, my attention is mostly focused on Machine Learning:
+* 👀 Computer Vision
+* 🦜 Applications of LLMs
+* 🩻 Analysis of medical data
+ <br> <br>
 
 [<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">](https://www.codewars.com/users/mikollaj99)
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">](https://www.kaggle.com/mikkac)
